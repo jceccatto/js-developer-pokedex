@@ -4,7 +4,12 @@
 }
 
 body {
-    background-color: #f6f8fc;
+    background-color: #b8b8b8;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
 }
 
 .content {
